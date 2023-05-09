@@ -5,6 +5,7 @@ namespace rocketfellows\BEVatNumberFormatValidatorsConfig\tests\unit;
 use arslanimamutdinov\ISOStandard3166\ISO3166;
 use PHPUnit\Framework\TestCase;
 use rocketfellows\BEVatFormatValidator\BEVatFormatValidator;
+use rocketfellows\BEVatNumberFormatValidatorsConfig\BEVatNumberFormatValidatorsConfig;
 use rocketfellows\CountryVatFormatValidatorInterface\CountryVatFormatValidatorInterface;
 use rocketfellows\CountryVatFormatValidatorInterface\CountryVatFormatValidators;
 use rocketfellows\CountryVatNumberFormatValidatorsConfig\CountryVatNumberFormatValidatorsConfigInterface;
